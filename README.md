@@ -31,11 +31,12 @@ Use the ArangoDB interface or command line tools to import the neo4j.dump file.
 Create a .env file in the root directory of the project. Add the following environment variables, replacing the placeholders with your actual data:
 
 env
-Copy code
+```bash
 NEO_4J_CONNECTION_URL=bolt://[hostname]:[port]
 NEO_4J_USER=[your_username]
 NEO_4J_PASSWORD=[your_password]
 KEY=[whatever you want you jwt key to be]
+```
 ### 4. Docker Compose Up
 Ensure Docker is installed on your machine. Then, run the following command in the root directory of the project:
 
