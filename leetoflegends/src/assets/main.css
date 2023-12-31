@@ -1,0 +1,28 @@
+@import './base.css';
+
+#app {
+  font-weight: normal;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding: 0px 0px;
+}
+
+a,
+.green {
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+
+body{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+@media (hover: hover) {
+  a:hover {
+    background-color: #57c4ff2c;
+    cursor: pointer;
+  }
+}
+
+

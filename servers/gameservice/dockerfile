@@ -1,0 +1,8 @@
+FROM node:14
+WORKDIR /usr/src/gameservice
+COPY package*.json ./
+RUN npm install
+COPY . .
+EXPOSE 8085
+EXPOSE 8086
+CMD ["node", "src/app.js"]
