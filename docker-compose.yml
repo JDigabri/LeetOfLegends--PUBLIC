@@ -43,6 +43,6 @@ services:
   frontend:
     build:
       context: ./leetoflegends
-      dockerfile: Dockerfile # Ensure this is the path to your front-end Dockerfile
+      dockerfile: Dockerfile
     ports:
-      - "5173:5173" # Update the port based on how your front-end service is configured
+      - "5173:5173"
