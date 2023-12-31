@@ -1,6 +1,6 @@
-# Project Name
+# Leet of Legends
 
-Provide a brief description of your project here. This README outlines the steps necessary to get this project up and running.
+A competitive coding platform designed to engage users in coding challenges through a gamified experience.
 
 ## Prerequisites
 
