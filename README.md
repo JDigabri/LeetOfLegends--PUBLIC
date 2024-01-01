@@ -45,5 +45,7 @@ docker-compose up
 ```
 This will build and start all the services defined in your docker-compose.yml file.
 
+### DEMO OF PROJECT
+
 [![Leet of Legends Video](https://i.ytimg.com/vi/qT1c4hm_iEE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB0giAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLA8nZXP6Jn-_HkTgU7s2lEXEJeZCw)](https://www.youtube.com/watch?v=qT1c4hm_iEE "Click to watch the video")
 
